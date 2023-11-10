@@ -1,2 +1,3 @@
-# Trabalho
-<h2> <a href="https://dkcaF.github.io/Trabalho/Site"> Clique aqui para aceder ao site. </a> </h2>
+#Trabalho
+<br>
+<a href="https://dkcaF.github.io/Trabalho/Site> Clique para aceder ao site </a>
